@@ -1,0 +1,122 @@
+export const UserTableColumns = [
+  {
+    Header: 'First Name',
+    accessor: 'first_name',
+    disableFilters: true,
+    disableSortBy: true,
+  },
+  {
+    Header: 'Last Name',
+    accessor: 'last_name',
+    disableFilters: true,
+  },
+  {
+    Header: 'Country',
+    accessor: 'country',
+    disableFilters: true,
+  },
+  {
+    Header: 'Date Of Birth',
+    accessor: 'date_of_birth',
+    disableFilters: true,
+  },
+  {
+    Header: 'Phone',
+    accessor: 'phone',
+    disableFilters: true,
+  },
+];
+
+export const UserTableData = [
+  {
+    first_name: 'John',
+    last_name: 'Doe',
+    phone: '1234567890',
+    country: 'United States of America',
+    date_of_birth: '01/02/1977',
+  },
+  {
+    first_name: 'Michael',
+    last_name: 'Smith',
+    phone: '1234567890',
+    country: 'Australia',
+    date_of_birth: '01/05/1988',
+  },
+  {
+    first_name: 'Donald',
+    last_name: 'Trumph',
+    phone: '123456789',
+    country: 'United States of America',
+    date_of_birth: '01/01/1976',
+  },
+  {
+    first_name: 'Michael',
+    last_name: 'Obama',
+    phone: '1234567890',
+    country: 'United States of America',
+    date_of_birth: '08/22/1975',
+  },
+  {
+    first_name: 'Stacy',
+    last_name: 'Linode',
+    phone: '1234567890',
+    country: 'Englad',
+    date_of_birth: '12/12/1965',
+  },
+  {
+    first_name: 'Michael',
+    last_name: 'Obama',
+    phone: '1234567890',
+    country: 'United States of America',
+    date_of_birth: '08/22/1975',
+  },
+  {
+    first_name: 'Michael',
+    last_name: 'Obama',
+    phone: '1234567890',
+    country: 'United States of America',
+    date_of_birth: '08/22/1975',
+  },
+  {
+    first_name: 'Michael',
+    last_name: 'Obama',
+    phone: '1234567890',
+    country: 'United States of America',
+    date_of_birth: '08/22/1975',
+  },
+  {
+    first_name: 'Michael',
+    last_name: 'Obama',
+    phone: '1234567890',
+    country: 'United States of America',
+    date_of_birth: '08/22/1975',
+  },
+  {
+    first_name: 'Michael',
+    last_name: 'Obama',
+    phone: '1234567890',
+    country: 'United States of America',
+    date_of_birth: '08/22/1975',
+  },
+  {
+    first_name: 'Michael',
+    last_name: 'Obama',
+    phone: '1234567890',
+    country: 'United States of America',
+    date_of_birth: '08/22/1975',
+  },
+  {
+    first_name: 'Michael',
+    last_name: 'Obama',
+    phone: '1234567890',
+    country: 'United States of America',
+    date_of_birth: '08/22/1975',
+  },
+  {
+    first_name: 'Michael',
+    last_name: 'Obama',
+    phone: '1234567890',
+    country: 'United States of America',
+    date_of_birth: '08/22/1975',
+  },
+];
