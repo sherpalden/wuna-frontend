@@ -1,4 +1,4 @@
-# Wuna Frontend
+# Luna Frontend
 
 Node version: 12.16.3
 
